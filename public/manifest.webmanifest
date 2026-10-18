@@ -1,0 +1,10 @@
+{
+  "name": "OT Yu-Gi-Oh! Idle",
+  "short_name": "YGO Idle",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07050f",
+  "theme_color": "#07050f",
+  "icons": [{ "src": "/arte/reliquias/enigma.png", "sizes": "64x64", "type": "image/png" }]
+}
